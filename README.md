@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on the any web server or even lo
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Repository command
+
 ### Copyright
 
 2017 Git. Training.
