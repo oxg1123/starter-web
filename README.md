@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Repository command
 
 ### Copyright
 
-2017 Git. Training.
+2017 Git. Training. All right reserved
